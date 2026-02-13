@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="devMe.png"  style="border-radius: 50%;" />
+  <img src="devMe.png" height="200"  style="border-radius: 50%;" />
 </p>
 
 # 👋 Hi, I'm Yassine Saied
@@ -28,33 +28,50 @@ Currently based in France 🇫🇷
 
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### Backend
-- PHP 7/8
-- Symfony 4/5/6
-- API Platform
-- MySQL / MongoDB
-- Doctrine
-- RabbitMQ
-- WebSockets
-- JWT
-- PHPUnit
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" width="40"/>
+</p>
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Frontend
-- React.js
-- Next.js 13/14
-- Angular 19/20
-- TypeScript
-- Redux / Redux Toolkit
-- TanStack Query
-- TailwindCSS
-- Material UI / Chakra UI / DaisyUI
-- Vitest / Jest / Testing Library
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+</td>
+
+<td valign="top" width="33%">
 
 ### DevOps & Tools
-- Docker
-- GitHub Actions
-- GitLab CI
-- Clean Code practices
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
