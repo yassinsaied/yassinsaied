@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="devMe.png" height="200"  style="border-radius: 50%;" />
+  <img src="devMe.png"  style="border-radius: 50%;" />
 </p>
 
 # 👋 Hi, I'm Yassine Saied
@@ -50,7 +50,6 @@ Currently based in France 🇫🇷
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
