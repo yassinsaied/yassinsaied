@@ -73,10 +73,7 @@ Currently based in France 🇫🇷
 
 
 ---
+## 🌐 Portfolio
 
+[Visit my website](https://yassinsaied.github.io/)
 
-## 📫 Contact
-
-- 📧 saied.yassin@gmail.com
-- 🌐 Portfolio: https://yassinsaied.github.io/
-- 📍 Courbevoie, France
