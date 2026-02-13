@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="devMe.png"  style="border-radius: 50%;" />
-</p>
+
 
 # 👋 Hi, I'm Yassine Saied
 
